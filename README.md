@@ -85,3 +85,8 @@ $ grep '2317  ' php/storage/Corporate_Info/* | grep daily-foreign | awk -F'[.:,]
 "2016-09-14","19751100","32348328","-12597228"
 ...
 ```
+
+Google sheets with charts:
+
+![Image of google sheet csv display]
+(note/google_sheet_csv_display.png)
